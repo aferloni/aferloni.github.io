@@ -1,4 +1,4 @@
-F# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -60,8 +60,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/profile_pic.JPG"
-  bio    : "PhD in Geography. Working on the economic geography of the Electric vehicle transition. 
-  Postdoc researcher @Ingenio(CSIC-UPV). Valencia, Spain."
+  bio    : "PhD in Geography. Working on the economic geography of the Electric vehicle transition. Postdoc researcher @Ingenio(CSIC-UPV). Valencia, Spain."
   links:
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
@@ -78,7 +77,7 @@ author:
   
 footer:
   links:
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/andrea-ferloni/"
     - label: "Scholar"
