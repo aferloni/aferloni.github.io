@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Andrea Ferloni"
+  name   : 
   avatar : "/assets/images/profile_pic.JPG"
   bio    : "PhD in Geography. Working on the economic geography of the Electric vehicle transition. 
   Postdoc researcher @Ingenio(CSIC-UPV). Valencia, Spain."
